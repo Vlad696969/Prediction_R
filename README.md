@@ -7,4 +7,4 @@ The purpose of this project is the creation of a model capable of solving a bina
 3. Random Forest
 4. Neural Network
 
-More details can be found in *report/report.pds*
+More details can be found in *report/report.pdf*
